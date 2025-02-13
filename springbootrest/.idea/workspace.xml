@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f8c6560-e05d-4b11-b2ad-1cb8ad17c5b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/model/UserPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/repo/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/service/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-sec-demo/spring-sec-demo/src/main/java/com/example/spring_sec_demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/model/UserPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/repo/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/service/MyUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootrest/src/main/java/com/example/springbootrest/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletEx" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletEx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletEx/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletEx/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-frontend-5" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-frontend-5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-frontend-5/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-frontend-5/src/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootrest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootrest/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2sugSIPhR7t8OC5yYInhJD5NIQm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Workspace/SpringJDBCExample/springbootrest"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f8c6560-e05d-4b11-b2ad-1cb8ad17c5b1" name="Changes" comment="" />
+      <created>1739310872110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739310872110</updated>
+    </task>
+    <servers />
+  </component>
+</project>
